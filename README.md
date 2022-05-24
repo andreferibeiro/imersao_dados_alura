@@ -1,6 +1,6 @@
 # Imersão Dados Alura
 
-### [Aula 01 - Seu primeiro Colab com Python e Pandas](https://github.com/andreferibeiro/imersao_dados_alura/commit/e707898ce388796da8134effa3fb5080adf20add)
+### [Aula 01 - Seu primeiro Colab com Python e Pandas](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/ALURA_IMERS%C3%83O_DADOS_4_Aula_01.ipynb)
 
 ### Aula 2 - Tratamento de dados e primeiros gráficos
 

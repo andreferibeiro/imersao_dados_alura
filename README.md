@@ -2,6 +2,8 @@
 
 ### [Aula 01 - Seu primeiro Colab com Python e Pandas](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/ALURA_IMERS%C3%83O_DADOS_4_Aula_01.ipynb)
 
+![alt text](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula01.png)
+
 ### Aula 2 - Tratamento de dados e primeiros gráficos
 
 ### Aula 3 - Gráficos, Time Series e Análise Exploratória

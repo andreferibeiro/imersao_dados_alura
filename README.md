@@ -13,7 +13,7 @@ Resumo da aula: Se eu idéia fosse resumir essa aula em duas palavras seria LIMP
 
 ![](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula%2002.png)
 
-![](images/Aula 02b.png)
+![]([images/Aula 02b.png](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula%2002b.png))
 
 ### Aula 3 - Gráficos, Time Series e Análise Exploratória
 

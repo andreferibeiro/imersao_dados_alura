@@ -7,7 +7,7 @@ Resumo da aula: Primeiros passos utilizando Google Colab como notebook e a Bibli
 ![](images/Aula02_01.png)
 ![](images/Aula01.png)
 
-### [Aula 2 - Tratamento de dados e primeiros gráficos] (https://github.com/andreferibeiro/imersao_dados_alura/blob/main/ALURA_IMERS%C3%83O_DADOS_4_Aula_02.ipynb)
+### [Aula 2 - Tratamento de dados e primeiros gráficos](ALURA_IMERSÃO_DADOS_4_Aula_02.ipynb)
 
 Resumo da aula: Se eu idéia fosse resumir essa aula em duas palavras seria LIMPEZA e GRÁFICOS. Excelente aula de como a limpeza e preparação dos dados para qualquer tipo de análise é imprescidível. Por fim uma série de novos gráficos, entre eles de distribuição, mapas de calor e por fim gráfico de caixas (boxplot) para identificar os outliers.
 

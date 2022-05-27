@@ -14,9 +14,11 @@ Resumo da aula: Se eu idéia fosse resumir essa aula em duas palavras seria LIMP
 ![](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula%2002.png)
 ![](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula%2002b.png)
 
-### Aula 3 - Gráficos, Time Series e Análise Exploratória
+### [Aula 3 - Gráficos, Time Series e Análise Exploratória](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/ALURA_IMERS%C3%83O_DADOS_4_Aula_03.ipynb)
 
 Resumo da aula: Em breve.
+
+![](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula_03.png)
 
 ### Aula 4 - Missão Impossivel: Cruzando bases de Dados
 

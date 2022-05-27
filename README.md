@@ -16,9 +16,8 @@ Resumo da aula: Se a idéia fosse resumir essa aula em duas palavras seria LIMPE
 
 ### [Aula 3 - Gráficos, Time Series e Análise Exploratória](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/ALURA_IMERS%C3%83O_DADOS_4_Aula_03.ipynb)
 
-Resumo da aula: Mais um pouco de conhecimento em gráficos e a tão famosa EDA (análise exploratória de dados).
+Resumo da aula: Mais um pouco de conhecimento em gráficos e a tão famosa EDA (análise exploratória de dados), remoção dos  outliers e re-avaliação do dataset.
 
-![](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula_03.png)
 ![](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula03_b.png)
 ![](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/images/Aula03_c.png)
 

@@ -20,9 +20,11 @@ Resumo da aula: Mais um pouco de conhecimento em gráficos e a tão famosa EDA (
 ![](images/Aula03_b.png)
 ![](images/Aula03_c.png)
 
-### Aula 4 - Missão Impossivel: Cruzando bases de Dados
+### [Aula 4 - Missão Impossivel: Cruzando bases de Dados](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/ALURA_IMERS%C3%83O_DADOS_4_Aula_04.ipynb)
 
-Resumo da aula: Em breve.
+Resumo da aula: Talvez a aula mais pesada da Imersão, mas um conteúdo incrível para o cruzamento de diferentes bancos de dados, criando um dataframe resultante com informações de fontes variáveis com a intenção de retirar insights valiosos e preparar os dados para aplicação de Machine Learning.
+
+![](images/aula_4.png)
 
 ### Aula 5 - Machine Learning
 

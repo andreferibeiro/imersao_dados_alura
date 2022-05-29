@@ -31,4 +31,10 @@ Resumo da aula: Introdução ao aprendizado de máquina com busca de correlaçõ
 
 ![](images/Aula_05.png)
 ![](images/Aula_05a.png)![](images/Aula_05b.png)
+
 ### Conclusão
+Os valores encontrados de erro médio absoluto tanto para o modelo baseline como para o modelo de dados cruzados apresenta um valor elevado, superior a 1 milhão.
+
+Analisando o gráfico de regressão linear fica evidente que a dispersão ou erro aumenta para os imóveis acima de 5milhões devido ao fato de que a base de dados possui um número significativamente menor de dados nessa faixa. Limitar a análise em imóveis de até 5 milhões parece uma boa estratégia para melhorar o desempenho do modelo.
+
+Por fim, ainda que o valor do coeficiente de determinção-r2, não tenha atingido valores mais próximos de 1, a inclusão de outras variáveis como a renda média aprimorou o resultado obtido pelo modelo.

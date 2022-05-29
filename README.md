@@ -30,7 +30,7 @@ Resumo da aula: Talvez a aula mais pesada da Imersão, mas um conteúdo incríve
 Resumo da aula: Introdução ao aprendizado de máquina com busca de correlações e criação de modelos de regressão linear baseline versus dados cruzados.
 
 ![](images/Aula_05.png)
-![](img="images/Aula_05a.png" width="100" height="100")![](img="images/Aula_05b.png" width="100" height="100")
+![](images/Aula_05a.png)![](images/Aula_05b.png)
 
 ### Conclusão
 Os valores encontrados de erro médio absoluto tanto para o modelo baseline como para o modelo de dados cruzados apresenta um valor elevado, superior a 1 milhão.

@@ -17,9 +17,7 @@ Resumo da aula: Se a idéia fosse resumir essa aula em duas palavras seria LIMPE
 
 Resumo da aula: Mais um pouco de conhecimento em gráficos e a tão famosa EDA (análise exploratória de dados), remoção dos  outliers e re-avaliação do dataset.
 
-![](images/Aula03_b.png)
-
-![](images/Aula03_c.png)
+![](images/Aula03_b.png)![](images/Aula03_c.png)
 
 ### [Aula 4 - Missão Impossivel: Cruzando bases de Dados](https://github.com/andreferibeiro/imersao_dados_alura/blob/main/ALURA_IMERS%C3%83O_DADOS_4_Aula_04.ipynb)
 
